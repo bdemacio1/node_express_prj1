@@ -4,7 +4,7 @@
   "description": "simple node express app",
   "main": "index.js",
   "scripts": {
-    "start": "index"
+    "start": "node index"
   },
   "author": "Bobby Demacio",
   "license": "ISC",
